@@ -45,6 +45,14 @@ The Logistic Regression model achieved **88% accuracy**.
 * Higher support calls increase churn probability.
 * Longer subscription reduces churn.
 
+## 📂 Project Structure
+
+customer-churn-analysis/
+│
+├── Assignment.ipynb
+├── telecom_churn_data.csv
+├── README.md
+└── Assignment.pdf
 ---
 
 ### 👨‍💻 Author
