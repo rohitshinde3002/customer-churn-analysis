@@ -1,6 +1,4 @@
-# customer-churn-analysis
-Customer churn prediction using Logistic Regression
-Here’s a **simple step-by-step guide** to:
+
 
 ---
 
@@ -52,5 +50,5 @@ The Logistic Regression model achieved **88% accuracy**.
 ### 👨‍💻 Author
 
 Rohit Shinde
----
+
 
