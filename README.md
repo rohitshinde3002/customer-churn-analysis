@@ -61,6 +61,19 @@ customer-churn-analysis/
 - Train-Test Split: 80-20
 - Feature Scaling: StandardScaler
 
+## 📊 Power BI Dashboard
+
+Interactive dashboard created using Power BI.
+
+File: Customer_Churn_Dashboard.pbix
+
+Includes:
+- KPI Cards
+- Churn Distribution
+- Support Calls Impact
+- Inactive Days Analysis
+- Gender & Subscription Insights
+
 
 ### 👨‍💻 Author
 
