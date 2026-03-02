@@ -53,6 +53,13 @@ customer-churn-analysis/
 ├── telecom_churn_data.csv
 ├── README.md
 └── Assignment.pdf
+---
+## 📊 Model Performance
+
+- Algorithm: Logistic Regression
+- Accuracy: 88%
+- Train-Test Split: 80-20
+- Feature Scaling: StandardScaler
 
 
 ### 👨‍💻 Author
